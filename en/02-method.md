@@ -246,7 +246,7 @@ measurement that establishes it.
 | The collector targets local addresses, inoperative once deployed | `file:line` |
 | The table meant to receive those metrics is empty in production | `0 rows` |
 | The "notify by email" field is read nowhere | `grep → 0 hits` |
-| The dashboard counts subscription rows, not people | `216 rows / 48 humans` |
+| The dashboard counts subscription rows, not people | `3,180 rows / 740 people` |
 
 The table above is a template: what matters is the form. On the left a claim that commits,
 on the right what lets anyone check it in thirty seconds — a file and line reference, a real

@@ -258,7 +258,7 @@ la mesure qui l'établit.
 | Le collecteur vise des adresses locales, inopérantes une fois déployé | `fichier:ligne` |
 | La table censée recevoir ces mesures est vide en production | `0 ligne` |
 | Le champ « notifier par email » n'est lu nulle part | `grep → 0 occurrence` |
-| Le tableau de bord compte des lignes d'abonnement, pas des personnes | `216 lignes / 48 humains` |
+| Le tableau de bord compte des lignes d'abonnement, pas des personnes | `3 180 lignes / 740 personnes` |
 
 Le tableau ci-dessus est un gabarit : ce qui compte est la forme. À gauche une affirmation
 qui engage, à droite ce qui permet de la vérifier en trente secondes — une référence
