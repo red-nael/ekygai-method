@@ -42,6 +42,19 @@ en/
 
 `fr/` mirrors the same content in French.
 
+```
+CONTRIBUTING.md            the criteria grid this repository applies to itself
+docs/guides/               including the guide of this repository's own construction
+docs/plans/                empty — see that guide, §6
+```
+
+**This repository applies its own method.** Its grid is in
+[`CONTRIBUTING.md`](CONTRIBUTING.md), derived from four failures that happened while
+building it. The guide of that build —
+[`docs/guides/2026-09-19-repository-build.md`](docs/guides/2026-09-19-repository-build.md) —
+records them, including the one the method itself warns about: the automatic capture layer
+silently installed itself into this folder.
+
 ## Installation
 
 Nothing to install for the essential layer. Copy the skills, give the two documents to your
@@ -79,5 +92,5 @@ govern reproduction of the text, not use of the ideas.
 
 **Redouane El Bakkouch** — [EKYGAI](https://ekygai.com)
 
-Contributions welcome, especially field reports: which criteria grid did your project
-produce, and which failure created it.
+Contributions welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md). Field reports first:
+which criteria grid did your project produce, and which failure created it.

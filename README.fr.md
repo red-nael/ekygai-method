@@ -39,6 +39,19 @@ fr/
 └── gabarits/              index de mémoire, fiche de fait, plan, guide
 ```
 
+```
+CONTRIBUTING.fr.md         la grille de critères que le dépôt s'applique à lui-même
+docs/guides/               dont le guide de construction de ce dépôt
+docs/plans/                vide — voir ce guide, §6
+```
+
+**Ce dépôt applique sa propre méthode.** Sa grille est dans
+[`CONTRIBUTING.fr.md`](CONTRIBUTING.fr.md), dérivée de quatre pannes survenues pendant sa
+construction. Le guide de cette construction —
+[`docs/guides/2026-09-19-construction-du-depot.md`](docs/guides/2026-09-19-construction-du-depot.md)
+— les consigne, y compris celle dont la méthode elle-même prévient : la couche de capture
+automatique s'est installée toute seule dans ce dossier.
+
 ## Installation
 
 Rien à installer pour la couche essentielle. Copiez les skills, donnez les deux documents à
@@ -76,5 +89,6 @@ l'est. Ces licences encadrent la reproduction du texte, pas l'usage des idées.
 
 **Redouane El Bakkouch** — [EKYGAI](https://ekygai.com)
 
-Les contributions sont bienvenues, en particulier les retours de terrain : quelle grille de
-critères votre projet a-t-il produite, et quelle panne l'a fait naître.
+Les contributions sont bienvenues — voir [`CONTRIBUTING.fr.md`](CONTRIBUTING.fr.md). Les
+retours de terrain d'abord : quelle grille de critères votre projet a-t-il produite, et
+quelle panne l'a fait naître.
